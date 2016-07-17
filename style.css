@@ -1,0 +1,16 @@
+.button-menu {
+  border: solid 1px black;
+  padding: 0 3px 0 3px;
+}
+
+body {
+  background: #EDEFED;
+}
+
+footer a {
+  color: #fff;
+}
+
+footer a:hover {
+  color: #bbb;
+}
